@@ -18,7 +18,7 @@
         <java.version>1.8</java.version>
         <spark.version>2.2.0</spark.version>
         <scala.version>2.11.8</scala.version>
-        <flink.version>1.8.2</flink.version>
+        <flink.version>1.9.2</flink.version>
         <scala.binary.version>2.11</scala.binary.version>
        <!-- <project.scope>provided</project.scope>-->
            <project.scope>compile</project.scope>
